@@ -20,7 +20,7 @@ DROP TABLE IF EXISTS price;
 SELECT * FROM price;
 
 ALTER TABLE price ADD COLUMN `1` INT NOT NULL;
-INSERT INTO price (id,`1`,`2`,`3`,`4`)
+INSERT INTO price (id,`1`,`2`,`3`,`4`)movie
 VALUES (005930,82900,84800,85400,86000);
 
 
