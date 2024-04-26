@@ -1,0 +1,24 @@
+.interest-checkbox{
+    background-color: pink;
+
+}
+
+
+.clustering-visualization{
+    display: inline-flex;
+    width: 40%;
+    height: 50%;
+    margin : 0px;
+    background-color: aqua;
+}
+
+.stock-information{
+    display: inline-flex;
+    width: 50%;
+    margin-left:10px;
+    background-color: red;
+
+
+}
+
+
